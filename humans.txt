@@ -3,11 +3,11 @@
 
 # TEAM
 
-    <name> -- <role> -- <email>
+    <Ja> -- <wizjoner> -- <email>
 
 # THANKS
 
-    <name>
+    <Ja - intelektualista>
 
 # TECHNOLOGY COLOPHON
 
